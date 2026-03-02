@@ -39,7 +39,7 @@ Routes → Controller → Service → Repository → Database
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/bookstore-test.git
+git clone https://github.com/VinceTaku/bookstore-test.git
 cd bookstore-test
 ```
 
